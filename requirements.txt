@@ -1,0 +1,8 @@
+youtube-transcript-api
+transformers
+torch
+sentence-transformers
+streamlit
+langchain
+faiss-cpu
+openai   # (optional if you want GPT-based QA)
